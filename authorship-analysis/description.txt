@@ -1,0 +1,13 @@
+## Requirements
+
+You'll need the docopt packeage to run the code from the terminal.
+If you need to install it on your system, please use following code:
+
+sudo pip3 install docopt-ng
+
+## How to run
+
+To run this code:
+
+   python3 attribution.py --words data/test/emma.txt
+   
