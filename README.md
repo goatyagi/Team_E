@@ -1,2 +1,3 @@
-# Team_E
-This is a repository for Authorship Analysis Course.
+Trello team E.
+
+# This is a repository for Authorship Analysis Course.
