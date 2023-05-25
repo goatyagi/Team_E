@@ -10,4 +10,6 @@ sudo pip3 install docopt-ng
 To run this code:
 
    python3 attribution.py --words data/test/emma.txt
-   
+
+Data: is in the data directory.
+Result is in the output.txt.  
